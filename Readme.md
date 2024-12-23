@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **.NET | MVC | C#**
 
-- 📄 Know about my experiences [RESUME](http://tiny.cc/my_resume)
+- 📄 Know about my experiences [RESUME]("")
 
 - ⚡ Fun fact **I came from Different PLANET**
 
