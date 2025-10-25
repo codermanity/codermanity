@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermanity&label=Profile%20views&color=0e75b6&style=flat" alt="codermanity" /> </p>
 
 
-- 🔭 I’m currently working on **Various Project**
+- 🔭 I’m currently working on **Various Projects**
 
 - 🌱 I’m currently learning **AI & ML**
 
