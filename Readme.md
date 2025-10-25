@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Various Project**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **AI & ML**
 
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/codermanity/)
 
-- 💬 Ask me about **.NET | MVC | C#**
+- 💬 Ask me about **Angular | WebAPI | .NET | MVC | C# | Android App**
 
 - 📄 Know about my experiences [RESUME]("")
 
